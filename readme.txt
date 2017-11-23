@@ -4,4 +4,5 @@ Git is a free software distributed under the GPL.
 你好git
 Creating a new branch is quick & simple.
 分支管理策略
+Encoding
 
