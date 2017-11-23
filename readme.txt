@@ -2,3 +2,4 @@
 Git is free software distributed under the GPL.
 测试乱码问题
 你好git
+Creating a new branch is quick AND simple.
